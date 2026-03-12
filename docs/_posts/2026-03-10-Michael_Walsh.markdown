@@ -33,4 +33,11 @@ The third day of work experience started with another stand up, which was follow
 
 We then had a talk with the iterns about what it was like to work with Red Hat and their experience there, which ended up giving me some good insight. During lunch a played some pool and sucked slightly less but still lost. The day ended with us desperatly trying to make a looping roller coaster using a ball and contruction straws. I wasn't able to finish before the time limit but I still enojyed the process
 
+# TY WORK EXPERIENCE WITH RED HAT - DAY 4
+
+On our fourth day of work experience with Red Hat we started the day with yet another stand up, after this we went to get some of the Thursday breakfast which was followed by a talk about AI with James. In this talk James mentioned how AI works and its fundenmentals, he then showed us how to use Notebook LM and demontrated it by using the answers in a survay me and the other TYs did to make a quiz and small podcast. After that we did a calming midfullness activity where we idenified different animals from trail cams.
+
+![Github Logo](https://panoptes-uploads.zooniverse.org/subject_location/82df00e1-22e1-49b2-9f7c-6da08a3539c9.jpeg)
+
+
 

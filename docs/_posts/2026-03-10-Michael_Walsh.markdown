@@ -39,5 +39,7 @@ On our fourth day of work experience with Red Hat we started the day with yet an
 
 ![Github Logo](https://panoptes-uploads.zooniverse.org/subject_location/82df00e1-22e1-49b2-9f7c-6da08a3539c9.jpeg)
 
+During Lunch I played even more pool and still sucked but it was fun nontheless. Once break was finished we were given a sustainabilitytask project. Where we were put into groups and had to make powerpoint presentations about different areas of sustainable technology. My group was given "Green and Sustainable Software Engineering" Which I found relativly easy, we were encouraged to use AI to help us, but I only used it for research and made everything else myself.
+
 
 

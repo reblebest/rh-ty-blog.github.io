@@ -34,3 +34,13 @@ The third day of work experience started with another stand up, which was follow
 We then had a talk with the iterns about what it was like to work with Red Hat and their experience there, which ended up giving me some good insight. During lunch a played some pool and sucked slightly less but still lost. The day ended with us desperatly trying to make a looping roller coaster using a ball and contruction straws. I wasn't able to finish before the time limit but I still enojyed the process
 
 
+# TY WORK EXPERIENCE WITH RED HAT - DAY 4
+
+At the forth day of work experience, we started the day with yet another stand up. After our stand up, James from IBM gave us a talk about AI and its usages. He then showed us an ai podcast he made using data from a survay me and the other TYs did which was really cool. We then had a small midfullness period where we identified animals on trailcam footage to train AI. During lunch a played even more pool and still sucked at it.
+
+After lunch we were each given a topic to make a powerpoint about. Me and Calum were given "Green and Sustainable Software Engineering". We were told to use AI to help us but all I did with it was some research.
+
+# TY WORK EXPERIENCE WITH RED HAT - DAY 5
+
+On the final day of work experience with Red Hat. We did our final stand up with Nigel which led into a talk about Rasperry Pi and how many people around the world use it in computing. After that we had a Microbit workshop where we learnt how to code a micrbit and make a car with them.
+
